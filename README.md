@@ -48,4 +48,4 @@ I am actively seeking opportunities as a Python Developer, Full-Stack Developer,
 ### ✍️ Favorite Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)<br/><br/>
 
-[![Visits Badge](https://badges.pufler.dev/visits/HaroonSiddiqui674/HaroonSiddiqui674)]
+[![Visits Badge](https://badges.pufler.dev/visits/HaroonSiddiqui674/HaroonSiddiqui674)](https://github.com/HaroonSiddiqui674)
