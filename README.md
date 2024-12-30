@@ -48,6 +48,4 @@ I am actively seeking opportunities as a Python Developer, Full-Stack Developer,
 ### ✍️ Favorite Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)<br/><br/>
 
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=18149349&style=0028&nbdigits=5&type=page&initCount=150" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
